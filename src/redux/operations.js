@@ -11,7 +11,6 @@ import {
   fetchContactError,
 } from "./app-actions";
 
-// axios.defaults.baseURL = "http://localhost:3000";
 
 const fetchContacts = () => (dispatch) => {
   dispatch(fetchContactRequest());
