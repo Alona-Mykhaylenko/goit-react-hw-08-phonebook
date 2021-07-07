@@ -1,0 +1,13 @@
+.button {
+  margin-left: 20px;
+  font-size: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid rgb(165, 164, 164);
+}
+
+.li {
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+}
